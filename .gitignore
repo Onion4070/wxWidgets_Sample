@@ -401,3 +401,6 @@ FodyWeavers.xsd
 *.sln.iml
 *.vcxproj
 *.filters
+*.vcxproj
+wxWidgets_Sample.vcxproj
+wxWidgets_Sample.vcxproj.filters
